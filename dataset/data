@@ -1,0 +1,6 @@
+Download the object detection dataset from the kitti page
+Images:
+http://www.cvlibs.net/download.php?file=data_object_image_2.zip
+Labels:
+http://www.cvlibs.net/download.php?file=data_object_label_2.zip
+
